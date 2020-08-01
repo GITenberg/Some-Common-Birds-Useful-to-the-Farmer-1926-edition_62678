@@ -1,5 +1,8 @@
 _repo: Some-Common-Birds-Useful-to-the-Farmer-1926-edition_62678
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62678-h/images/cover.jpg
 creator:
   author:
     agent_name: Beal, F. E. L. (Foster Ellenborough Lascelles)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '36716'
     url: http://www.gutenberg.org/2009/agents/36716
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62678#Some-Common-Birds-Useful-to-the-Farmer-1926-edition
 gutenberg_issued: '2020-07-17'
 gutenberg_type: Text
 identifiers:
